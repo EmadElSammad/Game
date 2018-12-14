@@ -1,2 +1,2 @@
-# My-Game
+# Game
 Rock Paper Scissor
